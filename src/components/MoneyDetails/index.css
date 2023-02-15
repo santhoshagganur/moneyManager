@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+.list-item-1 {
+  background-color: #ecfccb;
+  border-color: #84cc16;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  margin-right: 15px;
+}
+
+.money-container {
+  display: flex;
+  width: 200px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.image {
+  height: 50px;
+  background-size: cover;
+  margin-right: 15px;
+  margin-top: 18px;
+}
+
+.balance {
+  font-family: Roboto;
+  font-size: 14px;
+  color: #334155;
+}
+
+.balance-amount {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #7e858e;
+}
+
+.list-item-2 {
+  background-color: #cffafe;
+  border-color: #0b69ff;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  margin-right: 15px;
+}
+
+.list-item-3 {
+  background-color: #ede9fe;
+  border-color: #0b69ff;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  margin-right: 15px;
+}
+
+.your-account-details {
+  display: flex;
+}

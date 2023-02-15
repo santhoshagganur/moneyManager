@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #1e293b;
+}
+
+.card-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70vw;
+}
+
+.user-details {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 25vh;
+  background-size: cover;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 25px;
+  margin-bottom: 20px;
+}
+
+.user-name {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.user-description {
+  color: #475569;
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+.special {
+  color: #0b69ff;
+  font-weight: 500;
+}
+
+.money-details-container {
+  list-style-type: none;
+}
