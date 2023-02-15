@@ -49,3 +49,71 @@
 .money-details-container {
   list-style-type: none;
 }
+
+.user-transactions {
+  background-color: #cffafe;
+  border-color: #475569;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+  height: 50vh;
+}
+
+.transaction-heading {
+  font-family: Roboto;
+  color: #475569;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.title {
+  font-size: 14px;
+  color: #475569;
+  margin-bottom: 10px;
+}
+
+.input-el {
+  width: 300px;
+  margin-bottom: 15px;
+  height: 30px;
+}
+
+.add {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-size: 12px;
+  border-radius: 5px;
+  border-width: 0;
+  width: 100px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.history-container {
+  background-color: #ffffff;
+  border-color: #475569;
+  height: 50vh;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  margin-left: 50px;
+  width: 25vw;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.user-transactions-history-container {
+  display: flex;
+  margin-top: 20px;
+}
